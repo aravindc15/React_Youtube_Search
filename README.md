@@ -1,5 +1,7 @@
 # ReduxSimpleStarter
 
+This is a basic youtube search project using react.
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
